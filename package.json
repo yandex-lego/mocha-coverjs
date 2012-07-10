@@ -15,12 +15,10 @@
   },
   "main": "./lib/mocha-coverjs",
   "engines": {
-    "node": "0.6 | 0.7"
+    "node": "0.6 | 0.8"
   },
   "dependencies": {
-    "jade": "*"
-  },
-  "devDependencies": {
+    "jade": "*",
     "mocha": "1.0.x",
     "coverjs": "*"
   }
