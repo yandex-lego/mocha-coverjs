@@ -1,0 +1,27 @@
+{
+  "name": "mocha-coverjs",
+  "version": "0.0.1",
+  "homepage": "http://github.com/bem/mocha-coverjs",
+  "author": "Sergey Kryzhanovsky <skryzhanovsky@ya.ru> (http://github.com/afelix)",
+  "maintainers": [
+    "Sergey Kryzhanovsky <skryzhanovsky@ya.ru> (http://github.com/afelix)"
+  ],
+  "bugs": {
+    "url": "http://github.com/bem/mocha-coverjs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bem/mocha-coverjs.git"
+  },
+  "main": "./lib/mocha-coverjs",
+  "engines": {
+    "node": "0.6 | 0.7"
+  },
+  "dependencies": {
+    "jade": "*"
+  },
+  "devDependencies": {
+    "mocha": "1.0.x",
+    "coverjs": "*"
+  }
+}
